@@ -1,0 +1,30 @@
+.header {
+    height: 5vmin;
+    color: rgb(219, 148, 54);
+    background-color: rgb(101, 38, 116);
+    font-family: 'Garamond', sans-serif;
+    border-bottom: 1px solid rgb(68, 49, 68);
+    font-size: 2.2vmin;
+    text-transform: uppercase;
+    border-radius: 2px 2px 0 0;
+}
+
+.subject {
+    color: #fff;
+    font-weight: 300;
+}
+
+.count {
+    background-color: rgb(102, 37, 117);
+    color: rgb(219, 148, 54);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, .5);
+    text-shadow: 0 1px 0 rgba(0, 0, 0, .5);
+    border-radius: 2px;
+    padding: 0.5vmin 0.8vmin;
+    text-transform: none;
+}
+
+.icon {
+    color: hsla(39, 100%, 43%, 0.685);
+    font-size: 2.2vmin;
+}

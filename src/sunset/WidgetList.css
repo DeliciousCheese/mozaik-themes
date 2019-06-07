@@ -1,0 +1,13 @@
+.item {
+    border-bottom: 1px solid rgb(52, 20, 20);
+}
+.item:hover {
+    background-color: rgb(30, 10, 10);
+}
+.item:last-child {
+    border-bottom: 0;
+}
+
+.meta {
+    color: rgb(219, 148, 54);
+}

@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=EB+Garamond&display=swap");
+.root {
+    font-family: 'EBGaramond', sans-serif;
+    color: rgb(219, 148, 54);
+    background: rgb(102, 37, 117);
+    font-size: 1.6vmin;
+    line-height: 3vmin;
+}
+
+.root a {
+    color: hsl(10, 92%, 74%);
+}

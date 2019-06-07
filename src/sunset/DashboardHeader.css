@@ -1,0 +1,10 @@
+.header {
+    background-color: rgb(102, 37, 117);
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.35);
+}
+
+.title {
+    font-family: 'EBGaramond', sans-serif;
+    text-transform: uppercase;
+    color: rgb(219, 148, 54)
+}
